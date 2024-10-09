@@ -2,7 +2,7 @@
 <h3>welcome to the page ✨</h3>
 
 <p style="display:inline-block;">
-  graphics things : <a href="jrygeorge.github.io">jrygeorge.github.io</a>
+  graphics things : <a href="https://jrygeorge.github.io">jrygeorge.github.io</a>
   <br><br>
   other projects below ↓
   <a href="https://kimetsu-no-yaiba.fandom.com/wiki/Tengen_Uzui">
