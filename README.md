@@ -1,5 +1,5 @@
 
 <h3>welcome to the page ✨</h3>
-graphics things : <a href="https://jrygeorge.github.io">jrygeorge.github.io</a>
+graphics things : <a href="https://jrygeorge.github.io" target="_blank">jrygeorge.github.io</a>
 <br>
 other things : ↓
